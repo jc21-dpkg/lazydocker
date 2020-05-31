@@ -1,8 +1,14 @@
+lazydocker (0.9.0) unstable; urgency=medium
+
+  * See: https://github.com/jesseduffield/lazydocker/releases/tag/v0.9
+
+ -- Jamie Curnow <jc@jc21.com>  Mon, 1 Jun 2020 9:00:00 +1000
+
 lazydocker (0.8.0) unstable; urgency=medium
 
   * See: https://github.com/jesseduffield/lazydocker/releases/tag/v0.8
 
- -- Jamie Curnow <jc@jc21.com>  Mon, 3 Feb 2019 9:00:00 +1000
+ -- Jamie Curnow <jc@jc21.com>  Mon, 3 Feb 2020 9:00:00 +1000
 
 lazydocker (0.7.6) unstable; urgency=medium
 
